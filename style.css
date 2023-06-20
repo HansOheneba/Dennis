@@ -3,6 +3,11 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
+  
+}
+
+body{
+    background-color: #010922;
 }
 section {
   position: relative;
@@ -12,7 +17,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #010922;
+
 }
 header {
   position: fixed;
